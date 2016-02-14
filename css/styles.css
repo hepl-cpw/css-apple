@@ -1,0 +1,31 @@
+/*
+Indications pour les valeurs de style
+- Le body :
+	- Couleur de texte dans le body : #333
+	- Police : Helvetica Neue, sinon (si elle ne se trouve pas sur le système de l'internaute) Helvetica, sinon Arial, à défaut la police sans-serif du système
+	- Taille de police : 18px
+	- Graisse : 200
+- La barre de navigation au-dessus :
+	- Couleur de fond : rgba(0, 0, 0, 0.6)
+	- Largeur minimale : 900px
+	- Taille de police : 16px
+	- Marge interne : 16px
+	- Les liens s'affichent en blanc, graisse 300 avec un espace inter-lettre légèrement augmenté (0.05em) et sont espacés de 3 fois la taille de la police en tout (une marge interne de 16px de chaque côté -  pour agrandir la zone cliquable - et une marge externe à droite de 16px pour avoir un espace libre entre les liens)
+	- Au survol, les liens deviennent gris #ccc
+- Le contenu de l'article
+	- l'artile a une marge interne de 80px en haut et 90px en bas
+	- l'élément de classe hero-text a une largeur fixe de 780px avec une marge en base de 90px et il est centré dans son parent
+	- le titre a une taille de police de 54px et une graisse de 200
+	- l'élément de classe shrink est en noir, a une taille de police de 20px, des marges en haut de 20px et en bas de 25px et une hauteur de ligne de 1.4 fois la taille de la police
+	- la figure a une largeur fluide qui doit occuper 90% de son parent avec un minimum de 780px e un maximum de 1440px (la largeur de l'image), et elle est centrée dans son parent
+	- quand on rétrécit la fenêtre, l'image ne peut pas déborder de son parent, l'élément figure (si elle est plus grande que la largeur de son parent, il faut la forcer à occuper au maximum 100% de la largeur de son parent)
+	- la légende de l'image s'écrit en gris #444 dans une taille de police de 15px avec un marge en haut de la moitié de la taille de la police
+- Le footer
+	- a un fond #f2f2f2 et est écrit en gris #444 dasn une taille de police de 12px
+	- il a une largeur qui doit occuper 90% de son parent avec des marges internes à gauche et à droite de 5%
+	- les paragraphes du footer ont une largeur maximum de 1440px et sont centrés dans le footer avec des marges internes en haut et en bas de 18px
+	- la ligne de séparation entre les deux paragraphes du footer est faite avec une bordure sous le premier paragpraphe de couleur #e3e3e3
+	- le lien dans le footer (la pomme) est en gris #444 et il est séparé du texte suivant par un espace qui fait la moitiés de la taille de la police
+	- au survol, la pomme devient noire
+	- le copyright s'affiche en gris #777
+*/
