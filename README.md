@@ -20,7 +20,7 @@
 Vous trouverez dans ce dossier une page HTML nommée **index.html**. Cette page contient le texte de la page d'accueil (simplifiée) du site d'Apple.  
 Toutefois, le formatage HTML par défaut ne rend pas la page très belle à l’œil : vous allez devoir créer la feuille de style qui donnera à cette page le rendu suivant&nbsp;:
 
-![Rendu de la page d'accueil du siyte d'Apple](rendu.png "Rendu de la page d'accueil du siyte d'Apple : "rendu.png")
+![Rendu de la page d'accueil du site d'Apple](rendu.png "Rendu de la page d'accueil du site d'Apple : "rendu.png")
 
 ### Consignes
 
