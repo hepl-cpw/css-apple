@@ -28,7 +28,7 @@ Toutefois, le formatage HTML par défaut ne rend pas la page très belle à l’
 * La première ligne de cette feuille de style devra contenir un commentaire indiquant "*Exercice n°1 : Page d'accueil du site d'Apple - styles.css*".
 * Placez ensuite un reset minimaliste qui remet les marges et les padding à zéro avant de commencer votre travail.
 * Votre mission est de tenter de reproduire le plus fidèlement possible le rendu écran ci-dessus fourni.
-* Pour vous aider dans votre tâche, des indications un peu plus précises concerenant les valeurs à utilsier se trouvent en commentaire dans la feuille de style.
+* Pour vous aider dans votre tâche, des indications un peu plus précises concerenant les valeurs à utiliser se trouvent en commentaire dans la feuille de style.
 * Bon travail et bon amusement&nbsp;!
 
 * * *
